@@ -1,0 +1,2 @@
+# Liveliness-Detection-Model
+Liveness models are intelligent models that seek to differentiate between a real image and a spoof image. A real image in this case is a true and live capture of the individual usually image of a person captured directly from a camera while a spoof image are the ones being captured off an existing image either an image existing on a phone or a printed picture of a picture. Developed the model using OpenCV, Keras, Tensorflow and Scikit Learn. Built model architecture by adapting the VGG16 architecture through transfer learning
